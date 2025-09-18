@@ -1,7 +1,7 @@
 # json-ld.net
 
 [![NuGet][nuget-badge]][nuget]
-[![Build Status][gha-badge][build]
+[![Build Status][gha-badge]][build]
 [![codecov][codecov-badge]][codecov]
 
 ## Introduction
