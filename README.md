@@ -1,7 +1,7 @@
 # json-ld.net
 
 [![NuGet][nuget-badge]][nuget]
-![Build Status][gha-badge]
+[![Build Status][gha-badge]][build]
 [![codecov][codecov-badge]][codecov]
 
 ## Introduction
@@ -682,7 +682,8 @@ https://github.com/linked-data-dotnet/json-ld.net
   [dnc-tutorial]:               https://www.microsoft.com/net/core
 
   [gha-badge]:                  https://github.com/linked-data-dotnet/json-ld.net/workflows/dotnet/badge.svg
-
+  [build]:                      https://github.com/linked-data-dotnet/json-ld.net/actions/workflows/dotnet.yml/badge.svg
+  
   [jsonld]:                     https://json-ld.org/
   [jsonld-java]:                https://github.com/jsonld-java/jsonld-java
 
